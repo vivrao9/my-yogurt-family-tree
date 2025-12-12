@@ -1,0 +1,28 @@
+{
+  "name": "my-yogurt-family-tree",
+  "type": "commonjs",
+  "private": "true",
+  "version": "1.0.0",
+  "description": "Tracking the lineage of my yogurt cultures. Oh, and including a brief history of yogurt.",
+  "license": "ISC",
+  "author": "Vivek Rao",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "prettier --write .",
+    "dev": "vite"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.39.2",
+    "@vitejs/plugin-react": "^5.1.2",
+    "eslint": "^8.57.1",
+    "eslint-plugin-react": "^7.37.5",
+    "eslint-plugin-react-hooks": "^7.0.1",
+    "globals": "^16.5.0",
+    "prettier": "^3.7.4",
+    "vite": "^7.2.7"
+  },
+  "dependencies": {
+    "d3": "^7.9.0"
+  }
+}

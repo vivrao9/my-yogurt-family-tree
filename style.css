@@ -1,0 +1,39 @@
+.greeting {
+  font-family: "PT Serif", serif;
+  font-weight: 700;
+  font-size: 2rem;
+}
+
+.navbar-text {
+  font-family: "PT Serif", serif;
+  font-weight: normal;
+  font-size: 1rem;
+  text-align: right;
+}
+
+.copy {
+  font-family: "PT Sans", sans-serif;
+  font-size: 1rem;
+  color: #2e2e2e;
+}
+
+.pronunciation {
+  font-family: "PT Sans", sans-serif;
+  color: #747474;
+  font-style: italic;
+  font-size: 0.9em;
+  padding-bottom: 5px;
+  margin-top: -4px;
+}
+
+.navbar-hed {
+  font-family: "PT Serif", serif;
+  font-weight: 700;
+  font-size: 1.2rem;
+}
+
+.section-hed {
+  font-family: "PT Serif", serif;
+  font-weight: 500;
+  font-size: 2rem;
+}
