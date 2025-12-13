@@ -3,6 +3,7 @@
 
 /* import styles from portfolio */
 @import url("https://vivrao9.github.io/style.css");
+;
 
 h1 {
   font-family: "PT Serif", "serif";
@@ -67,6 +68,7 @@ img {
 
 body {
   margin: 0;
+  background: #f5f5f5;
   font-family: "PT Sans", sans-serif;
   font-size: 1rem;
   -webkit-font-smoothing: antialiased;

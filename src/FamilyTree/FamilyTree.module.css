@@ -1,0 +1,16 @@
+.tick	{
+	color: #dedede,
+}
+
+.yogurtItem	{
+	display: flex;
+	flex-direction: column;
+	row-gap: 0.25rem;
+}
+
+.yogurtName	{
+	color: #280042;
+	font-family: "PT Sans", sans-serif;
+	font-size: 1rem;
+	font-weight: 600;
+}
